@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: black;
+  text-align: center;
+  margin: 4px;
+  padding-top: 10px;
+}
+nav {
+  margin-left: 400px;
+  padding: 50px;
+
+}
+nav a {
+  color: palevioletred;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 30 px;
+  margin-bottom: 30px;
+}
+figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
